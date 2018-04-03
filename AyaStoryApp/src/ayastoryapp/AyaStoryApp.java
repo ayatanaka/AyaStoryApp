@@ -16,7 +16,7 @@ public class AyaStoryApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Aya's Interactive Story App");
+        System.out.println("Welcome to Aya's Interactive Story App");
     }
     
 }
